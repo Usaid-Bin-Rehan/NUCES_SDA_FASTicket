@@ -1,4 +1,4 @@
-# TicketR
+# NUCES_SDA_FASTicket
 
 [![Build Status](https://img.shields.io/travis/user/repo.svg)](https://travis-ci.org/user/repo)
 [![Coverage Status](https://coveralls.io/repos/github/user/repo/badge.svg?branch=master)](https://coveralls.io/github/user/repo?branch=master)
